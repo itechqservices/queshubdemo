@@ -1,0 +1,16 @@
+{
+  "name": "queshubdemo",
+  "description": "Demo Application",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
